@@ -1,1 +1,1 @@
-I'm still not sure how this works
+So if I remove the previous thing and then pull??
