@@ -1,6 +1,6 @@
 I hope this works
 
-I just want to know how snapshots work
+Now I'm in a branch!
 
 But what if I change things on this end?
 
