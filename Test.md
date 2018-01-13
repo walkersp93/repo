@@ -2,6 +2,6 @@ I hope this works
 
 Now I'm in a branch!
 
-But what if I change things on this end?
+Lets work on things at the local level
 
-What happens if I make a branch
+
