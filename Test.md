@@ -1,5 +1,6 @@
 I hope this works
 
-I just want to know how snapshots work
+Now I'm in a branch!
 
-What happens if I make a branch
+Lets work on things at the local level
+
